@@ -8,7 +8,8 @@
         android:allowBackup="false"
         android:fullBackupOnly="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="Zoho Demo"
+        android:label="CBE"
+        android:theme="@style/LaunchTheme"
         tools:replace="android:label"
         android:usesCleartextTraffic="true"
         android:requestLegacyExternalStorage="true">

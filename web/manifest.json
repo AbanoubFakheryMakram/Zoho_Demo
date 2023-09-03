@@ -1,6 +1,6 @@
 {
-    "name": "zoho_demo",
-    "short_name": "zoho_demo",
+    "name": "cbe",
+    "short_name": "cbe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
