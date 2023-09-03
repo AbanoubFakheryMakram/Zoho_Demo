@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 await ZohodeskPortalApikit.login(response.data, (isSuccess) async {
                   print(isSuccess);
                   if (isSuccess) {
-                    // in case if success try to user tickets
+                    // in case of success try to show user tickets
                     await ZohodeskPortalTicket.show();
                   }
                 });
